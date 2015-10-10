@@ -2,7 +2,6 @@ import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Rectangle;
 
-
 public class Blood {
 	private int x = 0;
 	private int y = 0;
